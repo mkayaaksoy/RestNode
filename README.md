@@ -1,2 +1,2 @@
 # RestNode
-Simple Server Api with Node js
+Simple Rest Api with Node js

@@ -1,0 +1,33 @@
+{
+  "name": "restnode",
+  "version": "1.0.0",
+  "description": "Simple Restful Api Service",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkayaaksoy/RestNode.git"
+  },
+  "keywords": [
+    "#NodeJs",
+    "#Express",
+    "#Restful",
+    "#WebApi"
+  ],
+  "author": "Murat Kaya Aksoy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mkayaaksoy/RestNode/issues"
+  },
+  "homepage": "https://github.com/mkayaaksoy/RestNode#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  }
+}
